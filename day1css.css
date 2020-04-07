@@ -1,0 +1,22 @@
+html {
+	background: url(img/img1.jpg);
+	background-size: cover;
+}
+body{
+	margin-left: 20vw;
+	margin-top: 11vw;
+	margin-right: 20vw;
+	border-top: 20vw;
+	border-right: 10vw;
+	
+}
+h1 {
+	font-family: arial;
+	text-align: left;
+	color: black;
+}
+div {
+	text-align: justify;
+	text-justify: inter-word;
+	color: white;
+}
